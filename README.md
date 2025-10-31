@@ -94,8 +94,4 @@
 
 ---
 
-<div align="center">
-
-![](https://github-readme-activity-graph.vercel.app/graph?username=alessandrogpz&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=ff0000&line=ff0000&point=ffffff)
-
 </div>
