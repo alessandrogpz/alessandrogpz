@@ -2,7 +2,7 @@
 
 # ALESSANDRO PEREZ
 
-### SOFTWARE & GAME DEVELOPER
+### SOFTWARE & GAME ENGINEER
 
 <img src="https://komarev.com/ghpvc/?username=alessandrogpz&label=PROFILE+VIEWS&color=red&style=flat-square" alt="profile views" />
 
@@ -96,10 +96,6 @@
 
 <div align="center">
 
-### SYSTEM STATUS: ONLINE
-
 ![](https://github-readme-activity-graph.vercel.app/graph?username=alessandrogpz&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=ff0000&line=ff0000&point=ffffff)
-
-### CONTRIBUTION MATRIX
 
 </div>
