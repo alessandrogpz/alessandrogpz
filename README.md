@@ -17,7 +17,7 @@
 
 ## PROGRAMMING LANGUAGES
 <p align="left">
-<img src="https://skillicons.dev/icons?i=cpp,c,go,py,ts,js" />
+<img src="https://skillicons.dev/icons?i=c,cpp,rust,py,ts,js" />
 <img src="https://cdn.simpleicons.org/odin/CCCCCC" height="48" alt="Odin" />
 </p>
 
